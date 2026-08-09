@@ -9,3 +9,7 @@ public class BasicMathCondition {
 
         System.out.print("Enter second number: ");
         double b = sc.nextDouble();
+
+        System.out.print("Enter choice (1: +, 2: -, 3: *, 4: /): ");
+        int op = sc.nextInt();
+
