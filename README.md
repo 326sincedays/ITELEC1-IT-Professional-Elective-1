@@ -2,7 +2,7 @@
 
 **Course Code:** ITELEC1
 
-**Course:** Integrative Programming and Technologies IT Professional Elective 1
+**Course:** IT Professional Elective 1
 
 **Instructor:** Ms. Joane Pearl Carandang
 
